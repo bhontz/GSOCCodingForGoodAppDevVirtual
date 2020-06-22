@@ -1,0 +1,6 @@
+Hi {{CONTACT}}:
+
+<p class='bold'>
+    SORRY THERE IS A NEW LINK TODAY FOR THE ZOOM MEETING:
+    https://us02web.zoom.us/j/84169902378?pwd=azRjemRrM0xuakgzdmd1aElCUzRqZz09
+</p>

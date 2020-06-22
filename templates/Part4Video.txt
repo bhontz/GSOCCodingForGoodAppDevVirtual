@@ -1,0 +1,64 @@
+GSOC Coding for Good - App Development - PART 4 VIDEO
+
+Hi {{CONTACT}}:
+Congratulations {{CONTACT}}, we made it across the finish line!  WOO HOO!!  This is the FINAL video and opportunity for you to earn your Coding For Good App Development badge, congratulations to you!  If you have been falling a little behind, NO PROBLEM, spend this week catching up!
+
+In this final part, we will add a COOKIE SALES graphic to our now nearly complete apps in order to fulfill one of the badge requirement steps.  Among the links provided below (and as well within the YouTube video comments and description) you will find a link to a Google Sheet containing Girl Scout Cookie Sales data.  Unfortunately, this sheet contains data only for the girls that sold more than 300 boxes of cookies during the 2020 Cookie Season.  Within the Part 4 video, we will show you how to "parse" the cookie sales data from this google sheet into a format that can be used to form the bar chart within our app.
+
+The STEM Patrol volunteers are really looking forward to reviewing your COMPLETED APP!  Just like we did in Part 1, before the end of the day Friday, we ask that you submit your Thunkable project using the Google Form (https://forms.gle/rtjPDGDCpbR2jtct5) we created for this event.
+CELEBRATION EVENT NEXT SATURDAY 4-5p!  Please plan on attending our CELEBRATION ZOOM MEETING EVENT next Saturday from 4p - 5p.  The ZOOM meeting details can be found at the end of this email message.  {{CONTACT}} if you are interested in SHARING your app during Saturday's Zoom meeting, please be prepared to CUT & PASTE the link to your app into the COMMENTS section of the Zoom meeting.  We'll also talk about how you could enter APP CHALLENGES were you can work with a team of your fellow GSOC Girl Scouts to build an app that would address a problem that you experience in your neighborhood, school or society in general.  Please look over the GLOBAL CHALLENGES link provided below, and we would LOVE to hear any APP IDEAS you'd like to share during this Saturday's celebratory Zoom meeting!
+
+This week's video is available here: 
+
+PART 4 YouTube Video: https://youtu.be/xHUX0_-xZ8c
+
+As a number of attendees reported problems accessing the links provided in the COMMENTS section of the YouTube video, so we have listed the links here as well:
+
+GRAPHIC ASSETS so you can remember the names of the assets to include on your buttons and logos: https://drive.google.com/file/d/1gUMa7bIp2POZKeng6lHcNbgujT-_Z3q6/view?usp=sharing
+
+Cookie Sales Data GOOGLE SHEET (note: sales for girls selling more than 300 boxes in 2020): https://docs.google.com/spreadsheets/d/1KMZDpSEwjc809ZoZmiYilgSBdPjhszbC1d4zz8NykXo/edit?usp=sharing
+
+SUPER HELPFUL PART 4 VIDEO HINT: Help with the FORMULA used in the Girl Scout Cookie Data Google Sheet. HERE IT IS: =CONCATENATE("['",C7,"',",D7,"],")
+
+APP CHALLENGES FOR GIRLS IN JR.HIGH / HIGH SCHOOL THIS FALL.  Check out these two really great APP CHALLENGES: Technovation Girls App Challenge  and the 
+Congressional App Challenge (all Orange County Congressional Districts offer this challenge).  The GSOC STEM Patrol would love to form teams of GSOC Girl Scouts to enter these challenges!  We can provide mentoring, please email the event email address: gsoc.codingforgood.appdev@gmail.com if you'd like to learn more.
+
+Need IDEAS for entering an app challenge? Here's a link to list of GOALS FOR IMPROVING OUR GLOBAL SOCIETY: https://www.globalgoals.org.  PLEASE NOTE: you can click on any of the boxes and drill in for additional detail.
+
+Girls looking to replicate the "Easter Egg" implementation we illustrated in the Part 3 Zoom meeting, here is a link to a page of emojis that you can cut-and-paste into Thunkable text blocks: https://www.copyandpasteemoji.com
+
+Google Form (share a link to your project BEFORE END OF DAY FRIDAY): https://forms.gle/rtjPDGDCpbR2jtct5
+
+Support email address: gsoc.codingforgood.appdev@gmail.com
+Please note that we have additionally added the links to the DESCRIPTION of the YouTube video, although you may need to click READ MORE within the description to view them.
+Thanks again for participating in this event, and good luck creating your app!  Don't hesitate to email any questions you may have regarding Part 4 to our support email address: gsoc.codingforgood.appdev@gmail.com.
+
+This SATURDAY's (Jun 20th 4p-5p) ZOOM Meeting is:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/83763203687?pwd=bGpVK09GMktwaGh5K1g4bHRQNXhJQT09
+
+Meeting ID: 841 6990 2378
+Password: 4MHVNW
+
+One tap mobile
++16699009128,,83763203687#,,1#,124530# US (San Jose)
++13462487799,,83763203687#,,1#,124530# US (Houston)
+
+Dial by your location
++1 669 900 9128 US (San Jose)
++1 346 248 7799 US (Houston)
++1 253 215 8782 US (Tacoma)
++1 312 626 6799 US (Chicago)
++1 646 558 8656 US (New York)
++1 301 715 8592 US (Germantown)
+Meeting ID: 841 6990 2378
+Password: 4MHVNW
+
+Find your local number: https://us02web.zoom.us/u/kBUaIoh8x
+
+Let's get working on our apps!
+
+Brad Hontz
+Volunteer STEM Patrol
+Girl Scouts of Orange County

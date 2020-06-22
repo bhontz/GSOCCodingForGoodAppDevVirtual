@@ -1,0 +1,54 @@
+GSOC Coding for Good - App Development - PART 3 VIDEO
+
+Hi {{CONTACT}}:
+Welcome back to Part 3 of the Coding for Good App Development virtual badge earning event!
+
+Now the FUN begins!  In Part 1 we learned how to get started with Thunkable.  In Part 2, we created our own app design using Paper Prototyping.  Now in Part 3, we'll go back into Thunkable and create our app design!  Get ready to start coding too - we'll need to make those buttons you created do something when you click on them!
+
+The STEM Patrol volunteers are really looking forward to reviewing the cool apps you create in Part 3!  Just like we did in Part 1, before the end of the day Friday, we ask that you submit your Thunkable project using the Google Form (https://forms.gle/rtjPDGDCpbR2jtct5) we created for this event.  Remember, its ok if you just want to follow along with the Part 3 video and create the same app we will show in the Part 3 video.  You might want to allow more time for this week's work; the Part 3 video is a little longer, and it may take you a bit longer to complete your Part 3 work this week.  Be prepared!
+This week's video is available here: 
+
+PART 3 YouTube Video: https://youtu.be/USzHRhyvOvk
+
+As a number of attendees reported problems accessing the links provided in the COMMENTS section of the YouTube video, so we have listed the links here as well:
+
+GRAPHIC ASSETS so you can remember the names of the assets to include on your buttons and logos: https://drive.google.com/file/d/1gUMa7bIp2POZKeng6lHcNbgujT-_Z3q6/view?usp=sharing
+
+Google Form (share a link to your project BEFORE END OF DAY FRIDAY): https://forms.gle/rtjPDGDCpbR2jtct5
+
+Girl Scout Cookie Graphic (we imported this in our Sunday Zoom meeting): https://drive.google.com/file/d/1qrsGImI59Pu5nHkmFoQQiVINim30XZxl/view?usp=sharing
+
+Support email address: gsoc.codingforgood.appdev@gmail.com
+
+Please note that we have additionally added the links to the DESCRIPTION of the YouTube video, although you may need to click READ MORE within the description to view them.
+Thanks again for participating in this event, and good luck creating your app!  Don't hesitate to email any questions you may have regarding Part 3 to our support email address: gsoc.codingforgood.appdev@gmail.com.  If you'd like some additional help (or to talk about your design), please attended the weekly ZOOM meeting on Sunday from 4p - 5p.
+
+This Sunday's (Jun 14th 4p-5p) ZOOM Meeting is:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/83763203687?pwd=bGpVK09GMktwaGh5K1g4bHRQNXhJQT09
+
+Meeting ID: 837 6320 3687
+Password: 0WVqft
+
+One tap mobile
++16699009128,,83763203687#,,1#,124530# US (San Jose)
++13462487799,,83763203687#,,1#,124530# US (Houston)
+
+Dial by your location
++1 669 900 9128 US (San Jose)
++1 346 248 7799 US (Houston)
++1 253 215 8782 US (Tacoma)
++1 312 626 6799 US (Chicago)
++1 646 558 8656 US (New York)
++1 301 715 8592 US (Germantown)
+Meeting ID: 837 6320 3687
+Password: 124530
+
+Find your local number: https://us02web.zoom.us/u/kBUaIoh8x
+
+Let's get working on our apps!
+
+Brad Hontz
+Volunteer STEM Patrol
+Girl Scouts of Orange County

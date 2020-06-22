@@ -1,0 +1,59 @@
+GSOC Coding for Good - App Development - PART 1 VIDEO
+
+Hi {CONTACT}:
+Thank you again for participating in the Coding for Good - App Development virtual badge earning event!
+
+I hope you are looking forward to creating your very own phone application and learning a little about "app development", it's going to be a lot of fun!
+
+There are a few prerequisites that you will need to participate in this event:
+
+A phone or tablet that can connect to the internet (WiFi or cellular).
+Installation of the Thunkable Live application on the aforementioned phone or tablet.  This app is available for free within the Apple App or Google Play Stores.
+A laptop or computer (note: IN ADDITION TO the phone or tablet mentioned above).
+A GMAIL account the girls can use (parents may need to help girls log of if the girls don't know the GMAIL account password).
+Here is how this four week long "virtual" event will work:
+
+Each week, you'll receive an email like this one containing a link to a YouTube video. This week's video is available here: 
+PART 1 YouTube Video: https://youtu.be/u-kK_BzZWyo
+
+Follow along with the weekly video, replaying as often as needed to replicate the week's lesson.
+Additional links will be provided within the COMMENTS section of the YouTube video, please look for those! (the comments section appears just beneath the video).  The links will contain content that supports the video.  NOTE: If you're having difficulting displaying the comments beneath the video:  (1) click on the SORT BY link found beneath the video (in the comments area).  (2) select NEWEST FIRST from the subsequent menu.  That will expose the comments.
+
+We will REMIX an existing Thunkable project to get started.  Within the Part 1 video, you will be asked to visit the URL: https://github.com/bhontz/CodingForGoodApp.  This link will additionally be available within the COMMENTS section of the YouTube video.
+Girls should submit their project work BY END OF DAY FRIDAY each week using a GOOGLE FORM available within the comment section of the YouTube video.  
+
+The PART 1 video illustrates how girls can share their project work using the GOOGLE FORM.  Please encourage your girls to share their work in this way so our volunteers can verify that they're keeping up.
+Please feel free to reply to the gsoc.codingforgood.appdev@gmail.com email address if you have any specific questions about this week's video.
+Please attend the weekly ZOOM MEETING RECAP this Sunday if you would like to ask questions directly, or to share your work with your Girl Scout sisters!
+This Sunday's (May 31st 4p-5p) ZOOM Meeting is:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/83763203687?pwd=bGpVK09GMktwaGh5K1g4bHRQNXhJQT09
+
+Meeting ID: 837 6320 3687
+Password: 0WVqft
+
+One tap mobile
++16699009128,,83763203687#,,1#,124530# US (San Jose)
++13462487799,,83763203687#,,1#,124530# US (Houston)
+
+Dial by your location
++1 669 900 9128 US (San Jose)
++1 346 248 7799 US (Houston)
++1 253 215 8782 US (Tacoma)
++1 312 626 6799 US (Chicago)
++1 646 558 8656 US (New York)
++1 301 715 8592 US (Germantown)
+Meeting ID: 837 6320 3687
+Password: 124530
+
+Find your local number: https://us02web.zoom.us/u/kBUaIoh8x
+
+* UPDATE *
+Beginning next Sunday (May 31st) we email the upcoming week's video link out IMMEDIATELY AFTER THE SUNDAY ZOOM MEETING!
+
+Thanks again for attending this event, now let's get working on our first phone app!
+
+Brad Hontz
+Volunteer STEM Patrol
+Girl Scouts of Orange County

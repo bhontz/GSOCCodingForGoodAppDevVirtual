@@ -1,0 +1,60 @@
+GSOC Coding for Good - App Development - PART 2 VIDEO
+
+Hi {{CONTACT}}:
+Welcome back to Part 2 of the Coding for Good App Development virtual badge earning event!
+
+In Part 1, we started exploring the Thunkable app development environment by creating our very first "Hello World" app!  Along the way, we talked about the importance and roll of LAYOUT (or "containers") in our app designs.
+
+This week, we'll talk about the app development process, present our app DESIGN OBJECTIVES, and talk about PAPER PROTOTYPING.  Your assignment for the week is to create a paper prototype of your own app design, or you can simply replicate the design we will be presenting as our example within the Part 2 video.
+
+At the end of the Part 2 video, we'll show you how to use your phone to take a picture of your paper prototype, so you can share your paper prototype on the weekly GOOGLE FORM.  Links for the paper prototyping template as well as the GOOGLE FORM will be provided within the comments section of the Part 2 YouTube video.  If you're having difficulting displaying the comments beneath the video: (1) click on the SORT BY link found beneath the video (in the comments area).  (2) select NEWEST FIRST from the subsequent menu.  That should expose the comments.
+
+This week's video is available here: 
+
+PART 2 YouTube Video: https://youtu.be/9X2ew0ZMp4Y
+
+As a number of attendees reported problems accessing the links provided in the COMMENTS section of the YouTube video, they are listed here as well below:
+
+* Blank Paper Prototype form (print as many copies as you need): https://drive.google.com/file/d/1YzC6aXxZR7s9Eu0LZGHtyCfU7mecomjr/view?usp=sharing
+
+* Our app's DESIGN OBJECTIVES: https://drive.google.com/file/d/1euehsC-YtUGggKrKVLT2ruo5tFLCFM1W/view?usp=sharing
+
+* GRAPHIC ASSETS you can pick from to customize your app - include within your paper prototype: https://drive.google.com/file/d/1gUMa7bIp2POZKeng6lHcNbgujT-_Z3q6/view?usp=sharing
+
+* Google Form (share a link to your project BEFORE END OF DAY FRIDAY): https://forms.gle/rtjPDGDCpbR2jtct5
+
+* Support email address: gsoc.codingforgood.appdev@gmail.com
+
+Please note that we have additionally added the links to the DESCRIPTION of the YouTube video, although you may need to click READ MORE within the description to view them.
+
+Thanks again for participating in this event, and good luck creating your paper prototype!  Don't hesitate to email any questions you may have regarding Part 2 to our support email address: gsoc.codingforgood.appdev@gmail.com.  If you'd like some additional help (or to talk about your design), please attended the weekly ZOOM meeting on Sunday from 4p - 5p.
+
+This Sunday's (Jun 7th 4p-5p) ZOOM Meeting is:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/83763203687?pwd=bGpVK09GMktwaGh5K1g4bHRQNXhJQT09
+
+Meeting ID: 837 6320 3687
+Password: 0WVqft
+
+One tap mobile
++16699009128,,83763203687#,,1#,124530# US (San Jose)
++13462487799,,83763203687#,,1#,124530# US (Houston)
+
+Dial by your location
++1 669 900 9128 US (San Jose)
++1 346 248 7799 US (Houston)
++1 253 215 8782 US (Tacoma)
++1 312 626 6799 US (Chicago)
++1 646 558 8656 US (New York)
++1 301 715 8592 US (Germantown)
+Meeting ID: 837 6320 3687
+Password: 124530
+
+Find your local number: https://us02web.zoom.us/u/kBUaIoh8x
+
+Let's get working on our app design!
+
+Brad Hontz
+Volunteer STEM Patrol
+Girl Scouts of Orange County

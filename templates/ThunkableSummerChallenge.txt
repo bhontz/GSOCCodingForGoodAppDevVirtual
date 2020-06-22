@@ -1,0 +1,24 @@
+GSOC Coding for Good - Here is another THUNKABLE opportunity for you!
+
+Hi {{CONTACT}}:
+Thanks again {{CONTACT}} for participating within our recent Coding for Good App Development Challenge!
+
+On Monday June 22nd, Thunkable announced a "Summer App Building Competition" open to everyone.  The challenge is to design and build and app that will help small businesses or teams during the COVID-19 pandemic.  Think of the special problems your hair stylist, coffee or ice cream shop, bike store, favorite restaurants, math tutors, dance, exercise or self defense studios (or any other small business you may know of) are facing during this pandemic and come up with an app idea that could assist them, even if it is just in some small way!
+
+Apps must be completed and submitted (submission amounts to sharing a link just like we did during our event) on or before August 31, 2020.  If you're interested in entering this summer's challenge, here is the very short list of contest rules:
+
+Thunkable Summer 2020 App Building Challenge
+
+Even if you are not interested or available for this challenge, please do take a look at the link above as there is an example project you can look over (and view as a video) that may be of interest to you.
+
+If you are interested in the challenge, the GSOC STEM Patrol would be happy to assist you!  If you have a cool idea for a small business assistance app that you would like to enter into this summer's competition, please reply to this email so we can help you!
+
+* REMINDER * YOUR FEEDBACK IS IMPORTANT TO US!
+
+If you haven't as of yet completed the Coding for Good App Dev POST EVENT SURVEY kindly click on the link below as soon as possible!  We would like to hold the Coding for Good App Dev badge earning event again later this year, and we are looking for ways in which we can improve.  If you'd rather not fill out the survey, please feel free to reply to this email with your comments and suggestions.  Either way, thank you so much for your feedback, it really helps us!
+
+You feedback is important, kindly complete our Post-Event Survey!
+
+Brad Hontz
+Volunteer STEM Patrol
+Girl Scouts of Orange County
